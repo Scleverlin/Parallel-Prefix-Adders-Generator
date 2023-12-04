@@ -2,7 +2,7 @@
 A verilog file generator for Parallel prefix adders
 
 # What
-This is perl scripts that generates verilog files for parallel prefix adders. 
+This projet is based on perl scripts to generate verilog files of almost each type of parallel prefix adders(Radix_2). 
 The generated files are:
 KS-adder, BK-adder, HC-adder, LF-adder and Knowles adder, and any other combinations of them.
 
