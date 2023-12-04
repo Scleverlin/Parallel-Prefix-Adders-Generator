@@ -4,8 +4,7 @@ A verilog file generator for Parallel prefix adders
 # What
 This is perl scripts that generates verilog files for parallel prefix adders. 
 The generated files are:
-KS-adder, BK-adder, HC-adder, LF-adder and Knowles adder.
-KS BK and SK adders are generated with the same scripts.
+KS-adder, BK-adder, HC-adder, LF-adder and Knowles adder, and any other combinations of them.
 
 # Name Explanation
 The output files would be like KS5_BK1.v
