@@ -22,7 +22,7 @@ $ make loop nums // nums is the number of bits of the adder
 $ make run
 ```
 
-# Etcs
+# etc
 It might generate uncorrect circuits, but in my test all circuits works well. 
 If you use it in your project or paper, please cite this repository and my paper:
 To appear.
