@@ -2,7 +2,7 @@
 A verilog file generator for Parallel prefix adders
 
 # What
-This projet is based on perl scripts to generate verilog files of almost each type of parallel prefix adders(Radix_2). 
+This project is based on perl scripts to generate verilog files of almost each type of parallel prefix adders(Radix_2). 
 
 The generated files are:
 KS-adder, BK-adder, HC-adder, LF-adder and Knowles adder, and any other combinations of them.
@@ -23,7 +23,7 @@ $ make run
 ```
 
 # etc
-It might generate uncorrect circuits, but in my test all circuits works well. 
+It might generate uncorrect circuits, but in my test all circuits work well. 
 If you use it in your project or paper, please cite this repository and my paper:
 To appear.
 
